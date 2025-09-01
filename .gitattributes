@@ -1,1 +1,2 @@
 vim binary
+user_customized_fonts.tar.gz filter=lfs diff=lfs merge=lfs -text
